@@ -53,7 +53,7 @@
   }
 
   function imagePath(item) {
-    return `assets/images/${item.slug}.webp?v=20260805`;
+    return `assets/images/${item.slug}.webp?v=20260805-waveform-hires`;
   }
 
   function audioPath(item) {
